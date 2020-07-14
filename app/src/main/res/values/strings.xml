@@ -38,6 +38,17 @@
     <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="next_day_ground_delivery">Next day ground delivery</string>
     <string name="pick_up">Pick up</string>
+
+    <string name="action_contact_message">You selected Contact</string>
+    <string name="action_order_message">You selected Order</string>
+    <string name="action_status_message">You selected Status</string>
+    <string name="action_favourites_message">You selected Favourites</string>
+
+    <string name="contact_text">Contact</string>
+    <string name="order_text">Order</string>
+    <string name="status_text">Status</string>
+    <string name="favourites_text">Favourites</string>
+
     <string-array name="labels_array">
         <item>Home</item>
         <item>Work</item>
